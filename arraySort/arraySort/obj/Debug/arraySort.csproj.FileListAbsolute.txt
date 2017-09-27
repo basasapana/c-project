@@ -1,0 +1,6 @@
+C:\Users\BASUDEV\Desktop\second sem\arraySort\arraySort\bin\Debug\arraySort.exe.config
+C:\Users\BASUDEV\Desktop\second sem\arraySort\arraySort\bin\Debug\arraySort.exe
+C:\Users\BASUDEV\Desktop\second sem\arraySort\arraySort\bin\Debug\arraySort.pdb
+C:\Users\BASUDEV\Desktop\second sem\arraySort\arraySort\obj\Debug\arraySort.csprojResolveAssemblyReference.cache
+C:\Users\BASUDEV\Desktop\second sem\arraySort\arraySort\obj\Debug\arraySort.exe
+C:\Users\BASUDEV\Desktop\second sem\arraySort\arraySort\obj\Debug\arraySort.pdb
