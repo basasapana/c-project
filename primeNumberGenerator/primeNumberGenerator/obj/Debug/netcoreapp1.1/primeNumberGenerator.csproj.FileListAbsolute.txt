@@ -1,0 +1,10 @@
+C:\Users\BASUDEV\source\repos\primeNumberGenerator\primeNumberGenerator\bin\Debug\netcoreapp1.1\primeNumberGenerator.deps.json
+C:\Users\BASUDEV\source\repos\primeNumberGenerator\primeNumberGenerator\bin\Debug\netcoreapp1.1\primeNumberGenerator.runtimeconfig.json
+C:\Users\BASUDEV\source\repos\primeNumberGenerator\primeNumberGenerator\bin\Debug\netcoreapp1.1\primeNumberGenerator.runtimeconfig.dev.json
+C:\Users\BASUDEV\source\repos\primeNumberGenerator\primeNumberGenerator\bin\Debug\netcoreapp1.1\primeNumberGenerator.dll
+C:\Users\BASUDEV\source\repos\primeNumberGenerator\primeNumberGenerator\bin\Debug\netcoreapp1.1\primeNumberGenerator.pdb
+C:\Users\BASUDEV\source\repos\primeNumberGenerator\primeNumberGenerator\obj\Debug\netcoreapp1.1\primeNumberGenerator.csprojResolveAssemblyReference.cache
+C:\Users\BASUDEV\source\repos\primeNumberGenerator\primeNumberGenerator\obj\Debug\netcoreapp1.1\primeNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\BASUDEV\source\repos\primeNumberGenerator\primeNumberGenerator\obj\Debug\netcoreapp1.1\primeNumberGenerator.AssemblyInfo.cs
+C:\Users\BASUDEV\source\repos\primeNumberGenerator\primeNumberGenerator\obj\Debug\netcoreapp1.1\primeNumberGenerator.dll
+C:\Users\BASUDEV\source\repos\primeNumberGenerator\primeNumberGenerator\obj\Debug\netcoreapp1.1\primeNumberGenerator.pdb
