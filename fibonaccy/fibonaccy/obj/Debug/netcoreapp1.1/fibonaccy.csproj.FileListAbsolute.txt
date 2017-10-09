@@ -1,0 +1,10 @@
+C:\Users\BASUDEV\source\repos\fibonaccy\fibonaccy\bin\Debug\netcoreapp1.1\fibonaccy.deps.json
+C:\Users\BASUDEV\source\repos\fibonaccy\fibonaccy\bin\Debug\netcoreapp1.1\fibonaccy.runtimeconfig.json
+C:\Users\BASUDEV\source\repos\fibonaccy\fibonaccy\bin\Debug\netcoreapp1.1\fibonaccy.runtimeconfig.dev.json
+C:\Users\BASUDEV\source\repos\fibonaccy\fibonaccy\bin\Debug\netcoreapp1.1\fibonaccy.dll
+C:\Users\BASUDEV\source\repos\fibonaccy\fibonaccy\bin\Debug\netcoreapp1.1\fibonaccy.pdb
+C:\Users\BASUDEV\source\repos\fibonaccy\fibonaccy\obj\Debug\netcoreapp1.1\fibonaccy.csprojResolveAssemblyReference.cache
+C:\Users\BASUDEV\source\repos\fibonaccy\fibonaccy\obj\Debug\netcoreapp1.1\fibonaccy.csproj.CoreCompileInputs.cache
+C:\Users\BASUDEV\source\repos\fibonaccy\fibonaccy\obj\Debug\netcoreapp1.1\fibonaccy.AssemblyInfo.cs
+C:\Users\BASUDEV\source\repos\fibonaccy\fibonaccy\obj\Debug\netcoreapp1.1\fibonaccy.dll
+C:\Users\BASUDEV\source\repos\fibonaccy\fibonaccy\obj\Debug\netcoreapp1.1\fibonaccy.pdb
