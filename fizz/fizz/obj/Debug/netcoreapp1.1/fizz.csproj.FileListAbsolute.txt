@@ -1,0 +1,10 @@
+C:\Users\BASUDEV\source\repos\fizz\fizz\bin\Debug\netcoreapp1.1\fizz.deps.json
+C:\Users\BASUDEV\source\repos\fizz\fizz\bin\Debug\netcoreapp1.1\fizz.runtimeconfig.json
+C:\Users\BASUDEV\source\repos\fizz\fizz\bin\Debug\netcoreapp1.1\fizz.runtimeconfig.dev.json
+C:\Users\BASUDEV\source\repos\fizz\fizz\bin\Debug\netcoreapp1.1\fizz.dll
+C:\Users\BASUDEV\source\repos\fizz\fizz\bin\Debug\netcoreapp1.1\fizz.pdb
+C:\Users\BASUDEV\source\repos\fizz\fizz\obj\Debug\netcoreapp1.1\fizz.csprojResolveAssemblyReference.cache
+C:\Users\BASUDEV\source\repos\fizz\fizz\obj\Debug\netcoreapp1.1\fizz.csproj.CoreCompileInputs.cache
+C:\Users\BASUDEV\source\repos\fizz\fizz\obj\Debug\netcoreapp1.1\fizz.AssemblyInfo.cs
+C:\Users\BASUDEV\source\repos\fizz\fizz\obj\Debug\netcoreapp1.1\fizz.dll
+C:\Users\BASUDEV\source\repos\fizz\fizz\obj\Debug\netcoreapp1.1\fizz.pdb
